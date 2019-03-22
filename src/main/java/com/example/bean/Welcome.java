@@ -6,7 +6,7 @@ public Welcome(String message) {
 
 super();
 
-this.message = message;
+this.message = message
 
 }
 
